@@ -5,7 +5,7 @@ import ImgCard2 from '../assets/cardImg2.png';
 
 const Courses = () => {
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center px-4 py-12 ">
+    <div className="flex flex-col items-center justify-center px-4 py-12 ">
       <div className="w-full max-w-7xl mx-auto">
         <div className="grid md:grid-cols-5 items-center gap-6">
           {/* Text content */}

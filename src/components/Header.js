@@ -9,7 +9,7 @@ import FeaturedCard from './card/FeaturedCard.js';
 
 const Header = () => {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-white to-blue-50 p-6 md:p-12 mb-10">
+    <div className=" bg-gradient-to-br from-white to-blue-50 p-6 md:p-12 mb-10">
       <div className="max-w-7xl mx-auto grid lg:grid-cols-2 gap-12 items-center">
         {/* Left Section */}
         <div className="space-y-6">
