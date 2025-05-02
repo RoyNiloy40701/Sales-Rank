@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Sales Rank
 
 A modern, responsive web application built with **React JS** and **Tailwind CSS**.
 
